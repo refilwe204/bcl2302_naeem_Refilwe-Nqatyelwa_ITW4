@@ -41,3 +41,8 @@ html {
   a {
     color: rgb(80, 226, 80)
   }
+
+  P{
+    background-color: pink;
+    color: black
+  }
